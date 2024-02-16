@@ -2,7 +2,7 @@
 @section('title', 'Quiz 管理')
 
 @section('content')
-  <h1>Quiz 管理</h1>
+  <h1>Quiz 管理アプリ</h1>
   <div class="row mt-5 mb-3">
     <div class="col text-right">
       <a href="{{ route('quizzes.create') }}" type="button" class="btn btn-primary">追加</a>
